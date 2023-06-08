@@ -3,3 +3,4 @@ Gitの練習をしていきます。
 aaa
 変更してます！！！
 git.rm
+git.diff
